@@ -1,0 +1,1294 @@
+:Monkey: seed=158827041126 count=50000
+:AllowPackage: com.coolqi.partner
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 35.0%
+//   1: 15.0%
+//   2: 0.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 7.0%
+//   6: 8.0%
+//   7: 10.0%
+//   8: 5.0%
+//   9: -0.0%
+//   10: 5.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(581.0,654.0)
+:Sending Touch (ACTION_UP): 0:(565.38086,636.73895)
+:Sending Touch (ACTION_DOWN): 0:(815.0,935.0)
+:Sending Touch (ACTION_UP): 0:(812.545,928.5296)
+:Sending Touch (ACTION_DOWN): 0:(59.0,318.0)
+:Sending Touch (ACTION_UP): 0:(59.017445,318.06454)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(272.0,438.0)
+:Sending Touch (ACTION_UP): 0:(282.45316,422.10242)
+:Sending Touch (ACTION_DOWN): 0:(715.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(702.75903,1259.1844)
+:Sending Touch (ACTION_DOWN): 0:(413.0,891.0)
+:Sending Touch (ACTION_UP): 0:(399.89865,889.9192)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(777.0,872.0)
+:Sending Touch (ACTION_UP): 0:(781.602,874.2566)
+:Sending Touch (ACTION_DOWN): 0:(527.0,163.0)
+:Sending Touch (ACTION_UP): 0:(538.86053,173.54277)
+:Sending Touch (ACTION_DOWN): 0:(662.0,835.0)
+:Sending Touch (ACTION_UP): 0:(647.9433,841.16095)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1868.0)
+:Sending Touch (ACTION_UP): 0:(924.34656,1865.3871)
+:Sending Touch (ACTION_DOWN): 0:(241.0,39.0)
+:Sending Touch (ACTION_UP): 0:(232.28789,119.184975)
+:Sending Touch (ACTION_DOWN): 0:(748.0,1744.0)
+:Sending Touch (ACTION_UP): 0:(744.4726,1764.754)
+:Sending Touch (ACTION_DOWN): 0:(328.0,1567.0)
+:Sending Touch (ACTION_UP): 0:(331.5688,1566.3593)
+:Sending Touch (ACTION_DOWN): 0:(599.0,424.0)
+:Sending Touch (ACTION_UP): 0:(600.75793,428.58975)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(441.0,1857.0)
+:Sending Touch (ACTION_UP): 0:(438.28433,1850.1456)
+:Sending Touch (ACTION_DOWN): 0:(1014.0,86.0)
+:Sending Touch (ACTION_UP): 0:(1016.1244,84.50147)
+:Sending Touch (ACTION_DOWN): 0:(260.0,542.0)
+:Sending Touch (ACTION_UP): 0:(258.0223,560.79034)
+:Sending Touch (ACTION_DOWN): 0:(15.0,529.0)
+:Sending Touch (ACTION_UP): 0:(14.513581,524.1901)
+:Sending Touch (ACTION_DOWN): 0:(298.0,860.0)
+:Sending Touch (ACTION_UP): 0:(349.37726,830.2957)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2017-08-03 16:48:21.996  system_uptime:193887107]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(452.0,1216.0)
+:Sending Touch (ACTION_UP): 0:(446.97388,1220.584)
+:Sending Touch (ACTION_DOWN): 0:(186.0,485.0)
+:Sending Touch (ACTION_UP): 0:(153.15611,456.47412)
+:Sending Touch (ACTION_DOWN): 0:(576.0,438.0)
+:Sending Touch (ACTION_UP): 0:(591.87146,441.812)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(970.0,1616.0)
+:Sending Touch (ACTION_UP): 0:(970.00867,1622.4537)
+:Sending Touch (ACTION_DOWN): 0:(131.0,996.0)
+:Sending Touch (ACTION_UP): 0:(50.13288,961.8572)
+:Sending Touch (ACTION_DOWN): 0:(687.0,710.0)
+:Sending Touch (ACTION_UP): 0:(700.64435,704.8207)
+:Sending Touch (ACTION_DOWN): 0:(928.0,341.0)
+:Sending Touch (ACTION_UP): 0:(937.4803,331.62875)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(644.0,1849.0)
+:Sending Touch (ACTION_UP): 0:(613.16364,1815.0109)
+:Sending Touch (ACTION_DOWN): 0:(325.0,941.0)
+:Sending Touch (ACTION_UP): 0:(326.57712,947.721)
+:Sending Touch (ACTION_DOWN): 0:(238.0,1196.0)
+:Sending Touch (ACTION_UP): 0:(239.758,1191.7006)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,941.0)
+:Sending Touch (ACTION_UP): 0:(204.00964,942.30035)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(200.0,1438.0)
+:Sending Touch (ACTION_UP): 0:(204.53369,1429.2616)
+:Sending Touch (ACTION_DOWN): 0:(448.0,1674.0)
+:Sending Touch (ACTION_UP): 0:(449.45532,1680.7527)
+:Sending Touch (ACTION_DOWN): 0:(543.0,27.0)
+:Sending Touch (ACTION_UP): 0:(541.17584,37.896515)
+:Sending Touch (ACTION_DOWN): 0:(305.0,119.0)
+:Sending Touch (ACTION_UP): 0:(324.07846,117.94128)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(703.0,11.0)
+    //[calendar_time:2017-08-03 16:48:33.918  system_uptime:193898861]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(666.08484,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(1064.0,665.0)
+:Sending Touch (ACTION_UP): 0:(1063.9543,669.91486)
+:Sending Touch (ACTION_DOWN): 0:(90.0,404.0)
+:Sending Touch (ACTION_UP): 0:(100.21556,396.2839)
+:Sending Touch (ACTION_DOWN): 0:(873.0,1847.0)
+:Sending Touch (ACTION_UP): 0:(871.7575,1854.8969)
+:Sending Touch (ACTION_DOWN): 0:(767.0,363.0)
+:Sending Touch (ACTION_UP): 0:(756.90845,362.08432)
+:Sending Touch (ACTION_DOWN): 0:(166.0,1880.0)
+:Sending Touch (ACTION_UP): 0:(179.18988,1876.2048)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(655.0,101.0)
+:Sending Touch (ACTION_UP): 0:(650.6303,101.35079)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(359.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(364.16605,1124.3674)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(164.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(194.7072,1096.0264)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2017-08-03 16:48:43.188  system_uptime:193908130]
+    // Sending event #300
+    //[calendar_time:2017-08-03 16:48:43.689  system_uptime:193908632]
+    // Sending event #300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(777.0,1540.0)
+:Sending Touch (ACTION_UP): 0:(775.1158,1546.1625)
+:Sending Touch (ACTION_DOWN): 0:(993.0,1889.0)
+:Sending Touch (ACTION_UP): 0:(993.3022,1871.9592)
+:Sending Touch (ACTION_DOWN): 0:(592.0,1037.0)
+:Sending Touch (ACTION_UP): 0:(590.8806,1046.5034)
+:Sending Touch (ACTION_DOWN): 0:(1027.0,1524.0)
+:Sending Touch (ACTION_UP): 0:(1030.529,1518.2618)
+:Sending Touch (ACTION_DOWN): 0:(917.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(920.4529,1039.57)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1590.0)
+:Sending Touch (ACTION_UP): 0:(1079.8452,1564.7587)
+:Sending Touch (ACTION_DOWN): 0:(840.0,1105.0)
+:Sending Touch (ACTION_UP): 0:(857.83234,1102.7441)
+:Sending Touch (ACTION_DOWN): 0:(726.0,212.0)
+:Sending Touch (ACTION_UP): 0:(741.94293,210.43826)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(973.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(975.3613,1124.4534)
+:Sending Touch (ACTION_DOWN): 0:(169.0,1060.0)
+:Sending Touch (ACTION_UP): 0:(170.32826,1058.6024)
+:Sending Touch (ACTION_DOWN): 0:(643.0,1347.0)
+:Sending Touch (ACTION_UP): 0:(619.32635,1337.2249)
+:Sending Touch (ACTION_DOWN): 0:(459.0,824.0)
+:Sending Touch (ACTION_UP): 0:(446.56287,832.46356)
+:Sending Touch (ACTION_DOWN): 0:(143.0,761.0)
+:Sending Touch (ACTION_UP): 0:(160.25848,756.76447)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(615.0,357.0)
+:Sending Touch (ACTION_UP): 0:(612.90686,303.0955)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2017-08-03 16:48:57.631  system_uptime:193922573]
+    // Sending event #400
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(267.0,999.0)
+:Sending Touch (ACTION_UP): 0:(280.26865,985.2205)
+:Sending Touch (ACTION_DOWN): 0:(60.0,441.0)
+:Sending Touch (ACTION_UP): 0:(67.61335,460.45142)
+:Sending Touch (ACTION_DOWN): 0:(635.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(619.5222,1713.0056)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(424.0,1174.0)
+:Sending Touch (ACTION_UP): 0:(427.8168,1177.2605)
+:Sending Touch (ACTION_DOWN): 0:(875.0,375.0)
+:Sending Touch (ACTION_UP): 0:(858.4213,355.95407)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(51.0,1825.0)
+:Sending Touch (ACTION_UP): 0:(67.57686,1828.5936)
+:Sending Touch (ACTION_DOWN): 0:(189.0,478.0)
+:Sending Touch (ACTION_UP): 0:(189.23659,463.54208)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(61.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(130.31938,1422.9376)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,783.0)
+:Sending Touch (ACTION_UP): 0:(857.3183,799.3002)
+:Sending Touch (ACTION_DOWN): 0:(71.0,105.0)
+:Sending Touch (ACTION_UP): 0:(67.85629,92.434906)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClockTabActivity } in package com.android.deskclock
+:Sending Touch (ACTION_DOWN): 0:(493.0,858.0)
+:Sending Touch (ACTION_UP): 0:(472.89636,868.9237)
+:Sending Touch (ACTION_DOWN): 0:(452.0,597.0)
+:Sending Touch (ACTION_UP): 0:(385.10065,599.29)
+    //[calendar_time:2017-08-03 16:49:08.736  system_uptime:193933679]
+    // Sending event #500
+    //[calendar_time:2017-08-03 16:49:09.238  system_uptime:193934181]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(581.0,892.0)
+:Sending Touch (ACTION_UP): 0:(592.18225,875.4043)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen } in package com.baidu.BaiduMap
+:Sending Touch (ACTION_DOWN): 0:(496.0,525.0)
+:Sending Touch (ACTION_UP): 0:(499.27377,537.43054)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.video/.HomeActivity } in package com.miui.video
+:Sending Touch (ACTION_DOWN): 0:(64.0,797.0)
+:Sending Touch (ACTION_UP): 0:(60.942326,801.5033)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.xiaomi.smarthome/.SmartHomeMainActivity } in package com.xiaomi.smarthome
+:Sending Touch (ACTION_DOWN): 0:(862.0,611.0)
+:Sending Touch (ACTION_UP): 0:(863.49774,611.6487)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.toutiaozixun/.activity.SplashActivity } in package com.toutiaozixun
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(184.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(183.18405,1626.3896)
+:Sending Touch (ACTION_DOWN): 0:(51.0,355.0)
+:Sending Touch (ACTION_UP): 0:(73.388,343.28305)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(984.0,1653.0)
+:Sending Touch (ACTION_UP): 0:(982.62445,1644.7883)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(883.0,58.0)
+:Sending Touch (ACTION_UP): 0:(869.5379,40.73673)
+:Sending Touch (ACTION_DOWN): 0:(1048.0,840.0)
+:Sending Touch (ACTION_UP): 0:(1043.3684,856.86993)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(738.0,627.0)
+:Sending Touch (ACTION_UP): 0:(760.5577,630.51154)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.duokan.reader/.DkReaderActivity } in package com.duokan.reader
+:Sending Touch (ACTION_DOWN): 0:(375.0,1136.0)
+:Sending Touch (ACTION_UP): 0:(349.89166,1130.238)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+:Sending Touch (ACTION_DOWN): 0:(494.0,848.0)
+:Sending Touch (ACTION_UP): 0:(492.8867,847.9318)
+:Sending Touch (ACTION_DOWN): 0:(969.0,347.0)
+:Sending Touch (ACTION_UP): 0:(970.91345,343.86578)
+:Sending Touch (ACTION_DOWN): 0:(141.0,1021.0)
+:Sending Touch (ACTION_UP): 0:(141.52286,1017.5752)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tianqiwhite/com.tianqi2345.activity.CoveryActivity } in package com.tianqiwhite
+:Sending Touch (ACTION_DOWN): 0:(558.0,830.0)
+:Sending Touch (ACTION_UP): 0:(469.6513,788.24493)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+    //[calendar_time:2017-08-03 16:49:18.450  system_uptime:193943393]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(847.0,329.0)
+:Sending Touch (ACTION_UP): 0:(854.5277,328.6159)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.xiaomi.shop/.activity.MainTabActivity } in package com.xiaomi.shop
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(314.0,1176.0)
+    // Injection Failed
+:Sending Touch (ACTION_UP): 0:(315.40375,1182.1332)
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(720.0,1422.0)
+:Sending Touch (ACTION_UP): 0:(718.44,1421.3021)
+:Sending Touch (ACTION_DOWN): 0:(158.0,251.0)
+:Sending Touch (ACTION_UP): 0:(163.57042,257.21695)
+:Sending Touch (ACTION_DOWN): 0:(365.0,597.0)
+:Sending Touch (ACTION_UP): 0:(362.13153,594.02124)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Touch (ACTION_DOWN): 0:(1062.0,1914.0)
+:Sending Touch (ACTION_UP): 0:(1056.8792,1909.2137)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(584.0,1270.0)
+:Sending Touch (ACTION_UP): 0:(602.01544,1262.109)
+:Sending Touch (ACTION_DOWN): 0:(405.0,18.0)
+:Sending Touch (ACTION_UP): 0:(422.55258,4.2151985)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(274.0,1759.0)
+:Sending Touch (ACTION_UP): 0:(327.03964,1767.943)
+:Sending Touch (ACTION_DOWN): 0:(610.0,726.0)
+:Sending Touch (ACTION_UP): 0:(589.54675,737.4751)
+:Sending Touch (ACTION_DOWN): 0:(355.0,447.0)
+:Sending Touch (ACTION_UP): 0:(360.32217,450.08655)
+:Sending Touch (ACTION_DOWN): 0:(713.0,516.0)
+:Sending Touch (ACTION_UP): 0:(742.3484,528.1138)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    //[calendar_time:2017-08-03 16:49:32.020  system_uptime:193956963]
+    // Sending event #700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,109.0)
+:Sending Touch (ACTION_UP): 0:(24.378925,113.958755)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(526.0,1348.0)
+:Sending Touch (ACTION_UP): 0:(525.8345,1353.4637)
+:Sending Touch (ACTION_DOWN): 0:(221.0,903.0)
+:Sending Touch (ACTION_UP): 0:(174.13461,978.1004)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(203.0,703.0)
+:Sending Touch (ACTION_UP): 0:(202.94792,699.73157)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.xiaomi.smarthome/.SmartHomeMainActivity } in package com.xiaomi.smarthome
+:Sending Touch (ACTION_DOWN): 0:(464.0,1607.0)
+:Sending Touch (ACTION_UP): 0:(432.36426,1569.8306)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(51.0,89.0)
+:Sending Touch (ACTION_UP): 0:(17.90686,97.25877)
+:Sending Touch (ACTION_DOWN): 0:(312.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(318.12634,1104.6102)
+:Sending Touch (ACTION_DOWN): 0:(41.0,62.0)
+:Sending Touch (ACTION_UP): 0:(60.744102,58.49876)
+:Sending Touch (ACTION_DOWN): 0:(122.0,940.0)
+:Sending Touch (ACTION_UP): 0:(104.20561,941.87317)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Touch (ACTION_DOWN): 0:(522.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(512.7015,1609.0461)
+:Sending Touch (ACTION_DOWN): 0:(351.0,344.0)
+:Sending Touch (ACTION_UP): 0:(403.87405,370.76767)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(692.0,144.0)
+:Sending Touch (ACTION_UP): 0:(702.3166,140.14809)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(960.0,1319.0)
+:Sending Touch (ACTION_UP): 0:(956.1526,1306.8612)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(713.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(715.4663,1586.6498)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(516.0,1784.0)
+:Sending Touch (ACTION_UP): 0:(530.5339,1780.3251)
+:Sending Touch (ACTION_DOWN): 0:(606.0,1507.0)
+    //[calendar_time:2017-08-03 16:49:42.764  system_uptime:193967706]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(586.7717,1519.5812)
+:Sending Touch (ACTION_DOWN): 0:(353.0,915.0)
+:Sending Touch (ACTION_UP): 0:(352.05444,958.1146)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(1010.0,1710.0)
+:Sending Touch (ACTION_UP): 0:(1037.1285,1746.473)
+:Sending Touch (ACTION_DOWN): 0:(845.0,395.0)
+:Sending Touch (ACTION_UP): 0:(844.8637,405.9251)
+:Sending Touch (ACTION_DOWN): 0:(759.0,67.0)
+:Sending Touch (ACTION_UP): 0:(784.2785,49.285)
+:Sending Touch (ACTION_DOWN): 0:(805.0,518.0)
+:Sending Touch (ACTION_UP): 0:(750.9275,529.18445)
+:Sending Touch (ACTION_DOWN): 0:(794.0,609.0)
+:Sending Touch (ACTION_UP): 0:(804.027,609.96405)
+:Sending Touch (ACTION_DOWN): 0:(204.0,190.0)
+:Sending Touch (ACTION_UP): 0:(203.83798,196.4011)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(539.0,375.0)
+:Sending Touch (ACTION_UP): 0:(538.10626,381.97934)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(662.0,1594.0)
+:Sending Touch (ACTION_UP): 0:(670.8757,1603.2122)
+:Sending Touch (ACTION_DOWN): 0:(356.0,90.0)
+:Sending Touch (ACTION_UP): 0:(479.8811,53.46795)
+:Sending Touch (ACTION_DOWN): 0:(376.0,345.0)
+:Sending Touch (ACTION_UP): 0:(376.10437,351.89478)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(694.0,1234.0)
+:Sending Touch (ACTION_UP): 0:(689.6951,1230.6296)
+:Sending Touch (ACTION_DOWN): 0:(666.0,969.0)
+:Sending Touch (ACTION_UP): 0:(666.69824,950.1297)
+:Sending Touch (ACTION_DOWN): 0:(665.0,1770.0)
+:Sending Touch (ACTION_UP): 0:(659.3753,1768.3438)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1356.0)
+:Sending Touch (ACTION_UP): 0:(523.0454,1365.0999)
+:Sending Touch (ACTION_DOWN): 0:(753.0,1587.0)
+:Sending Touch (ACTION_UP): 0:(774.2987,1587.6296)
+:Sending Touch (ACTION_DOWN): 0:(859.0,346.0)
+:Sending Touch (ACTION_UP): 0:(877.2381,345.71625)
+:Sending Touch (ACTION_DOWN): 0:(134.0,607.0)
+    //[calendar_time:2017-08-03 16:49:57.620  system_uptime:193982563]
+    // Sending event #900
+:Sending Touch (ACTION_UP): 0:(168.47441,606.6791)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(746.0,1370.0)
+:Sending Touch (ACTION_UP): 0:(745.72205,1386.8331)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(220.0,820.0)
+:Sending Touch (ACTION_UP): 0:(218.93872,826.6628)
+:Sending Touch (ACTION_DOWN): 0:(457.0,1332.0)
+:Sending Touch (ACTION_UP): 0:(447.16016,1336.5912)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(1049.0,616.0)
+:Sending Touch (ACTION_UP): 0:(1052.0752,619.79913)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(70.061905,1260.0393)
+:Sending Touch (ACTION_DOWN): 0:(1035.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(1075.7025,1749.0042)
+:Sending Touch (ACTION_DOWN): 0:(854.0,513.0)
+:Sending Touch (ACTION_UP): 0:(847.30927,508.04944)
+:Sending Touch (ACTION_DOWN): 0:(500.0,317.0)
+:Sending Touch (ACTION_UP): 0:(511.4736,325.05536)
+:Sending Touch (ACTION_DOWN): 0:(426.0,909.0)
+:Sending Touch (ACTION_UP): 0:(416.07962,896.26263)
+:Sending Touch (ACTION_DOWN): 0:(964.0,1072.0)
+:Sending Touch (ACTION_UP): 0:(965.0065,1074.1798)
+:Sending Touch (ACTION_DOWN): 0:(739.0,1033.0)
+:Sending Touch (ACTION_UP): 0:(741.2044,1039.8911)
+:Sending Touch (ACTION_DOWN): 0:(122.0,712.0)
+:Sending Touch (ACTION_UP): 0:(122.22703,716.3795)
+:Sending Touch (ACTION_DOWN): 0:(23.0,1647.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1699.4943)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(912.0,907.0)
+:Sending Touch (ACTION_UP): 0:(870.6034,854.72437)
+:Sending Touch (ACTION_DOWN): 0:(289.0,1771.0)
+:Sending Touch (ACTION_UP): 0:(295.7765,1766.6187)
+    //[calendar_time:2017-08-03 16:50:12.071  system_uptime:193997014]
+    // Sending event #1000
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(632.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(627.40424,1319.5162)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(112.0,1604.0)
+:Sending Touch (ACTION_UP): 0:(138.19179,1575.4413)
+:Sending Touch (ACTION_DOWN): 0:(116.0,1292.0)
+:Sending Touch (ACTION_UP): 0:(101.50339,1292.9851)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(802.0,1760.0)
+:Sending Touch (ACTION_UP): 0:(838.32715,1820.2053)
+:Sending Touch (ACTION_DOWN): 0:(463.0,1831.0)
+:Sending Touch (ACTION_UP): 0:(456.39487,1831.4736)
+:Sending Touch (ACTION_DOWN): 0:(196.0,1335.0)
+:Sending Touch (ACTION_UP): 0:(225.11064,1262.5411)
+:Sending Touch (ACTION_DOWN): 0:(803.0,1229.0)
+:Sending Touch (ACTION_UP): 0:(777.76855,1226.2946)
+:Sending Touch (ACTION_DOWN): 0:(227.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(207.56487,1226.4664)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(43.0,377.0)
+:Sending Touch (ACTION_UP): 0:(87.50401,398.36963)
+:Sending Touch (ACTION_DOWN): 0:(634.0,590.0)
+:Sending Touch (ACTION_UP): 0:(633.7996,612.2019)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(571.0,898.0)
+:Sending Touch (ACTION_UP): 0:(553.0712,904.5126)
+:Sending Touch (ACTION_DOWN): 0:(341.0,1353.0)
+:Sending Touch (ACTION_UP): 0:(337.67178,1373.8943)
+:Sending Touch (ACTION_DOWN): 0:(389.0,524.0)
+:Sending Touch (ACTION_UP): 0:(393.4859,517.1868)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(615.0,1877.0)
+    //[calendar_time:2017-08-03 16:50:27.031  system_uptime:194011975]
+    // Sending event #1100
+:Sending Touch (ACTION_UP): 0:(613.52936,1894.3092)
+:Sending Touch (ACTION_DOWN): 0:(307.0,423.0)
+:Sending Touch (ACTION_UP): 0:(306.1064,434.33157)
+:Sending Touch (ACTION_DOWN): 0:(493.0,413.0)
+:Sending Touch (ACTION_UP): 0:(504.50568,411.24054)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1577.0)
+:Sending Touch (ACTION_UP): 0:(281.46222,1590.08)
+:Sending Touch (ACTION_DOWN): 0:(998.0,246.0)
+:Sending Touch (ACTION_UP): 0:(966.4698,376.9791)
+:Sending Touch (ACTION_DOWN): 0:(973.0,1457.0)
+:Sending Touch (ACTION_UP): 0:(977.6542,1442.5889)
+:Sending Touch (ACTION_DOWN): 0:(433.0,163.0)
+:Sending Touch (ACTION_UP): 0:(428.12003,164.78603)
+:Sending Touch (ACTION_DOWN): 0:(537.0,1462.0)
+:Sending Touch (ACTION_UP): 0:(502.13812,1473.6705)
+:Sending Touch (ACTION_DOWN): 0:(127.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(158.11372,1789.0892)
+:Sending Touch (ACTION_DOWN): 0:(305.0,809.0)
+:Sending Touch (ACTION_UP): 0:(309.52008,806.40247)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(226.0,462.0)
+:Sending Touch (ACTION_UP): 0:(226.40376,526.20514)
+:Sending Touch (ACTION_DOWN): 0:(632.0,993.0)
+:Sending Touch (ACTION_UP): 0:(638.093,995.16046)
+:Sending Touch (ACTION_DOWN): 0:(32.0,1320.0)
+:Sending Touch (ACTION_UP): 0:(44.881332,1321.3754)
+:Sending Touch (ACTION_DOWN): 0:(755.0,897.0)
+:Sending Touch (ACTION_UP): 0:(753.00055,882.6341)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+    //[calendar_time:2017-08-03 16:50:39.425  system_uptime:194024368]
+    // Sending event #1200
+:Sending Touch (ACTION_DOWN): 0:(92.0,137.0)
+:Sending Touch (ACTION_UP): 0:(89.00963,130.27205)
+:Sending Touch (ACTION_DOWN): 0:(685.0,889.0)
+:Sending Touch (ACTION_UP): 0:(685.94885,899.5649)
+:Sending Touch (ACTION_DOWN): 0:(780.0,1703.0)
+:Sending Touch (ACTION_UP): 0:(783.6045,1709.554)
+:Sending Touch (ACTION_DOWN): 0:(804.0,71.0)
+:Sending Touch (ACTION_UP): 0:(802.4304,86.795166)
+:Sending Touch (ACTION_DOWN): 0:(504.0,737.0)
+:Sending Touch (ACTION_UP): 0:(494.097,773.9404)
+:Sending Touch (ACTION_DOWN): 0:(53.0,884.0)
+:Sending Touch (ACTION_UP): 0:(0.0,943.4533)
+:Sending Touch (ACTION_DOWN): 0:(893.0,538.0)
+:Sending Touch (ACTION_UP): 0:(944.8084,475.56726)
+:Sending Touch (ACTION_DOWN): 0:(996.0,1228.0)
+:Sending Touch (ACTION_UP): 0:(998.80023,1229.9718)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(383.0,53.0)
+:Sending Touch (ACTION_UP): 0:(383.28778,46.685944)
+:Sending Touch (ACTION_DOWN): 0:(314.0,291.0)
+:Sending Touch (ACTION_UP): 0:(297.5023,286.2804)
+:Sending Touch (ACTION_DOWN): 0:(908.0,237.0)
+:Sending Touch (ACTION_UP): 0:(906.8248,243.60945)
+:Sending Touch (ACTION_DOWN): 0:(843.0,630.0)
+:Sending Touch (ACTION_UP): 0:(878.62177,631.56415)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(247.0,1363.0)
+:Sending Touch (ACTION_UP): 0:(233.118,1349.2704)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(792.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(793.07104,1020.9)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,854.0)
+:Sending Touch (ACTION_UP): 0:(1023.46423,861.9961)
+:Sending Touch (ACTION_DOWN): 0:(781.0,927.0)
+:Sending Touch (ACTION_UP): 0:(778.27466,927.1535)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2017-08-03 16:50:49.961  system_uptime:194034904]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(834.0,714.0)
+:Sending Touch (ACTION_UP): 0:(776.8488,636.8258)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(276.0,1411.0)
+:Sending Touch (ACTION_UP): 0:(273.5516,1428.5535)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(46.821777,1610.9487)
+:Sending Touch (ACTION_DOWN): 0:(990.0,1640.0)
+:Sending Touch (ACTION_UP): 0:(989.09454,1636.6788)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,485.0)
+:Sending Touch (ACTION_UP): 0:(1062.2988,478.7731)
+:Sending Touch (ACTION_DOWN): 0:(80.0,966.0)
+:Sending Touch (ACTION_UP): 0:(60.41052,937.697)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tianqiwhite/com.tianqi2345.activity.CoveryActivity } in package com.tianqiwhite
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1532.0)
+:Sending Touch (ACTION_UP): 0:(376.51834,1537.8344)
+:Sending Touch (ACTION_DOWN): 0:(897.0,1828.0)
+:Sending Touch (ACTION_UP): 0:(898.56134,1813.3083)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(750.0,1568.0)
+:Sending Touch (ACTION_UP): 0:(755.1646,1570.6205)
+:Sending Touch (ACTION_DOWN): 0:(388.0,1027.0)
+:Sending Touch (ACTION_UP): 0:(377.8634,1022.0381)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+:Sending Touch (ACTION_DOWN): 0:(255.0,585.0)
+:Sending Touch (ACTION_UP): 0:(260.46896,586.5209)
+:Sending Touch (ACTION_DOWN): 0:(145.0,309.0)
+:Sending Touch (ACTION_UP): 0:(149.15573,303.16132)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClockTabActivity } in package com.android.deskclock
+:Sending Touch (ACTION_DOWN): 0:(702.0,1834.0)
+:Sending Touch (ACTION_UP): 0:(707.59503,1808.2527)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.browser_llqhz/com.browser2345.StartBrowserActivity } in package com.browser_llqhz
+:Sending Touch (ACTION_DOWN): 0:(391.0,384.0)
+:Sending Touch (ACTION_UP): 0:(391.83795,377.8594)
+:Sending Touch (ACTION_DOWN): 0:(780.0,802.0)
+:Sending Touch (ACTION_UP): 0:(794.1893,791.8571)
+:Sending Touch (ACTION_DOWN): 0:(745.0,1463.0)
+:Sending Touch (ACTION_UP): 0:(751.3426,1372.9052)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.securitycenter/com.miui.securityscan.MainActivity } in package com.miui.securitycenter
+:Sending Touch (ACTION_DOWN): 0:(131.0,25.0)
+    //[calendar_time:2017-08-03 16:51:01.206  system_uptime:194046149]
+    // Sending event #1400
+:Sending Touch (ACTION_UP): 0:(77.747406,0.0)
+:Sending Touch (ACTION_DOWN): 0:(458.0,1232.0)
+:Sending Touch (ACTION_UP): 0:(462.5879,1242.0948)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.gallery/.app.Gallery } in package com.miui.gallery
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(547.0,1767.0)
+:Sending Touch (ACTION_UP): 0:(538.2963,1767.2596)
+:Sending Touch (ACTION_DOWN): 0:(346.0,66.0)
+:Sending Touch (ACTION_UP): 0:(344.7528,51.39905)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(497.0,629.0)
+:Sending Touch (ACTION_UP): 0:(498.5403,631.36615)
+:Sending Touch (ACTION_DOWN): 0:(201.0,1550.0)
+:Sending Touch (ACTION_UP): 0:(226.83327,1589.5504)
+:Sending Touch (ACTION_DOWN): 0:(1023.0,254.0)
+:Sending Touch (ACTION_UP): 0:(1024.1571,251.22185)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(959.0,344.0)
+:Sending Touch (ACTION_UP): 0:(956.9216,344.46832)
+:Sending Touch (ACTION_DOWN): 0:(22.0,772.0)
+:Sending Touch (ACTION_UP): 0:(20.082396,757.7529)
+:Sending Touch (ACTION_DOWN): 0:(421.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(422.2661,1786.2821)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.MmsTabActivity } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(175.0,1482.0)
+:Sending Touch (ACTION_UP): 0:(164.48651,1518.7478)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.MainSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(859.0,500.0)
+:Sending Touch (ACTION_UP): 0:(775.1723,548.60004)
+:Sending Touch (ACTION_DOWN): 0:(1028.0,493.0)
+    //[calendar_time:2017-08-03 16:51:10.956  system_uptime:194055899]
+    // Sending event #1500
+:Sending Touch (ACTION_UP): 0:(951.56726,501.6525)
+:Sending Touch (ACTION_DOWN): 0:(344.0,1655.0)
+:Sending Touch (ACTION_UP): 0:(347.4105,1657.2982)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.MmsTabActivity } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(398.0,947.0)
+:Sending Touch (ACTION_UP): 0:(404.4364,945.5037)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(455.0,371.0)
+:Sending Touch (ACTION_UP): 0:(491.50836,414.32022)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(541.0,163.0)
+:Sending Touch (ACTION_UP): 0:(554.4017,174.90637)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(61.0,216.0)
+:Sending Touch (ACTION_UP): 0:(79.90887,213.14706)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClockTabActivity } in package com.android.deskclock
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(790.0,1414.0)
+:Sending Touch (ACTION_UP): 0:(815.1802,1453.9507)
+:Sending Touch (ACTION_DOWN): 0:(596.0,946.0)
+:Sending Touch (ACTION_UP): 0:(580.4481,927.4972)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(9.0,789.0)
+:Sending Touch (ACTION_UP): 0:(0.0,792.01996)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2017-08-03 16:51:19.862  system_uptime:194064804]
+    // Sending event #1600
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(736.0,1031.0)
+:Sending Touch (ACTION_UP): 0:(749.3552,1038.356)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(973.0,456.0)
+:Sending Touch (ACTION_UP): 0:(972.45337,455.79904)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(916.0,510.0)
+:Sending Touch (ACTION_UP): 0:(916.0271,504.50964)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(80.0,431.0)
+:Sending Touch (ACTION_UP): 0:(87.741875,423.3375)
+:Sending Touch (ACTION_DOWN): 0:(421.0,980.0)
+:Sending Touch (ACTION_UP): 0:(411.50415,979.32947)
+:Sending Touch (ACTION_DOWN): 0:(144.0,832.0)
+:Sending Touch (ACTION_UP): 0:(146.96043,830.2455)
+:Sending Touch (ACTION_DOWN): 0:(574.0,1285.0)
+:Sending Touch (ACTION_UP): 0:(569.35486,1287.93)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(724.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(722.8514,1036.7711)
+    //[calendar_time:2017-08-03 16:51:28.650  system_uptime:194073592]
+    // Sending event #1700
+    //[calendar_time:2017-08-03 16:51:29.150  system_uptime:194074093]
+    // Sending event #1700
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.email/.activity.Welcome } in package com.android.email
+:Sending Touch (ACTION_DOWN): 0:(684.0,1740.0)
+:Sending Touch (ACTION_UP): 0:(700.5641,1743.4803)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(485.0,205.0)
+:Sending Touch (ACTION_UP): 0:(482.00272,217.87128)
+:Sending Touch (ACTION_DOWN): 0:(179.0,1826.0)
+:Sending Touch (ACTION_UP): 0:(253.63559,1851.4633)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(16.0,973.0)
+:Sending Touch (ACTION_UP): 0:(9.345938,971.965)
+:Sending Touch (ACTION_DOWN): 0:(490.0,750.0)
+:Sending Touch (ACTION_UP): 0:(538.34674,707.376)
+:Sending Touch (ACTION_DOWN): 0:(843.0,1530.0)
+:Sending Touch (ACTION_UP): 0:(846.4958,1524.4725)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(492.0,717.0)
+:Sending Touch (ACTION_UP): 0:(485.73602,715.4454)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(911.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(910.0757,1717.3699)
+:Sending Touch (ACTION_DOWN): 0:(262.0,87.0)
+:Sending Touch (ACTION_UP): 0:(277.74527,86.33404)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+    //[calendar_time:2017-08-03 16:51:40.481  system_uptime:194085424]
+    // Sending event #1800
+:Sending Touch (ACTION_DOWN): 0:(349.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(352.82825,1077.1628)
+:Sending Touch (ACTION_DOWN): 0:(178.0,1365.0)
+:Sending Touch (ACTION_UP): 0:(173.85472,1358.6426)
+:Sending Touch (ACTION_DOWN): 0:(913.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(929.0741,1073.8496)
+:Sending Touch (ACTION_DOWN): 0:(801.0,1288.0)
+:Sending Touch (ACTION_UP): 0:(834.97565,1400.6552)
+:Sending Touch (ACTION_DOWN): 0:(684.0,886.0)
+:Sending Touch (ACTION_UP): 0:(696.46045,912.0779)
+:Sending Touch (ACTION_DOWN): 0:(895.0,987.0)
+:Sending Touch (ACTION_UP): 0:(889.84753,1001.8386)
+:Sending Touch (ACTION_DOWN): 0:(267.0,1660.0)
+:Sending Touch (ACTION_UP): 0:(262.7375,1663.3838)
+:Sending Touch (ACTION_DOWN): 0:(887.0,695.0)
+:Sending Touch (ACTION_UP): 0:(888.1756,694.4247)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(243.0,1211.0)
+:Sending Touch (ACTION_UP): 0:(243.37714,1223.5084)
+:Sending Touch (ACTION_DOWN): 0:(67.0,1404.0)
+:Sending Touch (ACTION_UP): 0:(68.3593,1418.6982)
+:Sending Touch (ACTION_DOWN): 0:(790.0,1238.0)
+:Sending Touch (ACTION_UP): 0:(791.75543,1236.0122)
+:Sending Touch (ACTION_DOWN): 0:(595.0,1733.0)
+:Sending Touch (ACTION_UP): 0:(625.79956,1623.3314)
+:Sending Touch (ACTION_DOWN): 0:(629.0,689.0)
+:Sending Touch (ACTION_UP): 0:(631.0202,690.3508)
+:Sending Touch (ACTION_DOWN): 0:(853.0,1725.0)
+:Sending Touch (ACTION_UP): 0:(853.3325,1703.5449)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(336.0,508.0)
+:Sending Touch (ACTION_UP): 0:(341.0461,504.85892)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+    //[calendar_time:2017-08-03 16:51:56.624  system_uptime:194101567]
+    // Sending event #1900
+    //[calendar_time:2017-08-03 16:51:57.125  system_uptime:194102068]
+    // Sending event #1900
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(847.0,1452.0)
+:Sending Touch (ACTION_UP): 0:(843.5761,1444.7773)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(408.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(410.0615,1035.6467)
+:Sending Touch (ACTION_DOWN): 0:(842.0,821.0)
+:Sending Touch (ACTION_UP): 0:(830.06744,835.06683)
+:Sending Touch (ACTION_DOWN): 0:(389.0,1881.0)
+:Sending Touch (ACTION_UP): 0:(393.03043,1873.5016)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(924.0,1215.0)
+:Sending Touch (ACTION_UP): 0:(934.39813,1216.6333)
+:Sending Touch (ACTION_DOWN): 0:(402.0,675.0)
+:Sending Touch (ACTION_UP): 0:(402.40274,673.37085)
+:Sending Touch (ACTION_DOWN): 0:(64.0,872.0)
+:Sending Touch (ACTION_UP): 0:(77.69155,905.0176)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(255.0,726.0)
+:Sending Touch (ACTION_UP): 0:(254.49445,714.1084)
+:Sending Touch (ACTION_DOWN): 0:(288.0,1103.0)
+:Sending Touch (ACTION_UP): 0:(272.60507,1112.1068)
+:Sending Touch (ACTION_DOWN): 0:(73.0,56.0)
+:Sending Touch (ACTION_UP): 0:(67.95163,61.242485)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(833.0,1126.0)
+:Sending Touch (ACTION_UP): 0:(833.7777,1129.177)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(513.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(496.74426,997.43634)
+    //[calendar_time:2017-08-03 16:52:12.577  system_uptime:194117520]
+    // Sending event #2000
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(883.0,354.0)
+:Sending Touch (ACTION_UP): 0:(878.7264,353.29764)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(531.0,764.0)
+:Sending Touch (ACTION_UP): 0:(498.6823,870.3866)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(640.0,925.0)
+:Sending Touch (ACTION_UP): 0:(636.9392,931.3367)
+:Sending Touch (ACTION_DOWN): 0:(180.0,688.0)
+:Sending Touch (ACTION_UP): 0:(160.67833,697.47455)
+:Sending Touch (ACTION_DOWN): 0:(212.0,681.0)
+:Sending Touch (ACTION_UP): 0:(212.8434,677.8831)
+:Sending Touch (ACTION_DOWN): 0:(811.0,1080.0)
+:Sending Touch (ACTION_UP): 0:(825.24603,1097.3015)
+:Sending Touch (ACTION_DOWN): 0:(353.0,1747.0)
+:Sending Touch (ACTION_UP): 0:(336.45593,1746.8053)
+:Sending Touch (ACTION_DOWN): 0:(384.0,516.0)
+:Sending Touch (ACTION_UP): 0:(381.24628,511.85544)
+:Sending Touch (ACTION_DOWN): 0:(85.0,932.0)
+:Sending Touch (ACTION_UP): 0:(37.595894,929.6144)
+:Sending Touch (ACTION_DOWN): 0:(90.0,634.0)
+:Sending Touch (ACTION_UP): 0:(21.009819,561.5515)
+    //[calendar_time:2017-08-03 16:52:21.862  system_uptime:194126805]
+    // Sending event #2100
+    //[calendar_time:2017-08-03 16:52:22.363  system_uptime:194127306]
+    // Sending event #2100
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(333.0,618.0)
+:Sending Touch (ACTION_UP): 0:(349.77847,621.9238)
+:Sending Touch (ACTION_DOWN): 0:(891.0,1544.0)
+:Sending Touch (ACTION_UP): 0:(886.90125,1540.1294)
+:Sending Touch (ACTION_DOWN): 0:(802.0,723.0)
+:Sending Touch (ACTION_UP): 0:(801.6183,704.7867)
+:Sending Touch (ACTION_DOWN): 0:(381.0,480.0)
+:Sending Touch (ACTION_UP): 0:(453.66983,528.51526)
+:Sending Touch (ACTION_DOWN): 0:(171.0,269.0)
+:Sending Touch (ACTION_UP): 0:(187.45439,274.02502)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1629.0)
+:Sending Touch (ACTION_UP): 0:(659.00635,1618.2373)
+:Sending Touch (ACTION_DOWN): 0:(82.0,1252.0)
+:Sending Touch (ACTION_UP): 0:(71.29025,1247.3784)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(916.0,822.0)
+:Sending Touch (ACTION_UP): 0:(906.00604,823.5786)
+:Sending Touch (ACTION_DOWN): 0:(961.0,675.0)
+:Sending Touch (ACTION_UP): 0:(969.9139,683.8968)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(294.0,105.0)
+:Sending Touch (ACTION_UP): 0:(289.02667,90.410255)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(891.0,345.0)
+:Sending Touch (ACTION_UP): 0:(893.80444,358.13416)
+:Sending Touch (ACTION_DOWN): 0:(874.0,185.0)
+:Sending Touch (ACTION_UP): 0:(895.1092,178.61086)
+:Sending Touch (ACTION_DOWN): 0:(330.0,1405.0)
+:Sending Touch (ACTION_UP): 0:(334.64432,1406.7483)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    //[calendar_time:2017-08-03 16:52:33.602  system_uptime:194138545]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(747.0,623.0)
+:Sending Touch (ACTION_UP): 0:(763.9733,599.1865)
+:Sending Touch (ACTION_DOWN): 0:(762.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(761.75073,1004.2249)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(14.0,1741.0)
+:Sending Touch (ACTION_UP): 0:(16.305178,1753.4294)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(77.0,1057.0)
+:Sending Touch (ACTION_UP): 0:(76.81355,1048.9042)
+:Sending Touch (ACTION_DOWN): 0:(308.0,1868.0)
+:Sending Touch (ACTION_UP): 0:(309.5469,1862.3281)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.MmsTabActivity } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(205.0,192.0)
+:Sending Touch (ACTION_UP): 0:(212.02321,189.35947)
+    // Rejecting start of Intent { cmp=com.android.deskclock/.DeskClockTabActivity } in package com.android.deskclock
+:Sending Touch (ACTION_DOWN): 0:(933.0,420.0)
+:Sending Touch (ACTION_UP): 0:(935.029,429.20175)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(411.0,493.0)
+:Sending Touch (ACTION_UP): 0:(399.39365,495.8752)
+:Sending Touch (ACTION_DOWN): 0:(306.0,1691.0)
+:Sending Touch (ACTION_UP): 0:(305.62622,1696.707)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.MmsTabActivity } in package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(141.0,956.0)
+:Sending Touch (ACTION_UP): 0:(136.7326,954.15173)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    //[calendar_time:2017-08-03 16:52:40.515  system_uptime:194145458]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(926.0,1745.0)
+:Sending Touch (ACTION_UP): 0:(928.8363,1749.6119)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.tianqiwhite/com.tianqi2345.activity.CoveryActivity } in package com.tianqiwhite
+:Sending Touch (ACTION_DOWN): 0:(905.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(889.45917,1737.5414)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.camera/.Camera } in package com.android.camera
+:Sending Touch (ACTION_DOWN): 0:(881.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(886.10706,1100.5502)
+:Sending Touch (ACTION_DOWN): 0:(462.0,690.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.thememanager/.ThemeResourceTabActivity } in package com.android.thememanager
+:Sending Touch (ACTION_UP): 0:(374.65308,714.4591)
+:Sending Touch (ACTION_DOWN): 0:(41.0,1451.0)
+:Sending Touch (ACTION_UP): 0:(12.958023,1438.4264)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://e.cn.miaozhen.com/r/k=2054696&p=77skt&dx=__IPDX__&rt=2&ns=106.38.34.10&ni=__IESID__&v=__LOC__&xa=__ADPLATFORM__&tr=__REQUESTID__&ro=sm&o=https://m.chevrolet.com.cn/act/brand/920promotion/disney/?utm_source=xiaomi&utm_medium=HS-201707384_MOB130_38195972&utm_campaign=SP-CH1700532_38195972 cmp=com.sohu.newsclient/.app.export.ViewInfoDetail } in package com.sohu.newsclient
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(923.0,125.0)
+:Sending Touch (ACTION_UP): 0:(922.92065,122.47406)
+:Sending Touch (ACTION_DOWN): 0:(294.0,1572.0)
+:Sending Touch (ACTION_UP): 0:(320.08804,1567.5182)
+:Sending Touch (ACTION_DOWN): 0:(346.0,1258.0)
+:Sending Touch (ACTION_UP): 0:(348.34695,1256.9153)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(730.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(717.65015,1174.2953)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.duomi.android/.DMLauncher } in package com.duomi.android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2017-08-03 16:52:49.950  system_uptime:194154893]
+    // Sending event #2400
+:Sending Touch (ACTION_DOWN): 0:(247.0,336.0)
+:Sending Touch (ACTION_UP): 0:(235.31375,353.74304)
+:Sending Touch (ACTION_DOWN): 0:(16.0,1611.0)
+:Sending Touch (ACTION_UP): 0:(8.816353,1614.5631)
+:Sending Touch (ACTION_DOWN): 0:(295.0,1063.0)
+:Sending Touch (ACTION_UP): 0:(293.80383,1047.4259)
+:Sending Touch (ACTION_DOWN): 0:(146.0,1866.0)
+:Sending Touch (ACTION_UP): 0:(87.942955,1920.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.TwelveKeyDialer } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(817.0,793.0)
+:Sending Touch (ACTION_UP): 0:(802.81683,752.2756)
+:Sending Touch (ACTION_DOWN): 0:(647.0,868.0)
+:Sending Touch (ACTION_UP): 0:(634.0685,868.0771)
+:Sending Touch (ACTION_DOWN): 0:(685.0,1013.0)
+:Sending Touch (ACTION_UP): 0:(733.24384,1034.3102)
+:Sending Touch (ACTION_DOWN): 0:(559.0,1732.0)
+:Sending Touch (ACTION_UP): 0:(556.6718,1745.9391)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.browser_llqhz/com.browser2345.StartBrowserActivity } in package com.browser_llqhz
+:Sending Touch (ACTION_DOWN): 0:(67.0,1273.0)
+:Sending Touch (ACTION_UP): 0:(77.341805,1275.03)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.MainSettings } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    // Rejecting start of Intent { act=android.search.action.GLOBAL_SEARCH cmp=com.android.quicksearchbox/.SearchActivity } in package com.android.quicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(37.0,322.0)
+:Sending Touch (ACTION_UP): 0:(64.48809,248.57388)
+:Sending Touch (ACTION_DOWN): 0:(20.0,1860.0)
+:Sending Touch (ACTION_UP): 0:(12.139492,1860.3734)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(325.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(336.98126,1117.5042)
+:Sending Touch (ACTION_DOWN): 0:(220.0,1896.0)
+:Sending Touch (ACTION_UP): 0:(212.09016,1905.1558)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(680.0,1603.0)
+:Sending Touch (ACTION_UP): 0:(688.76794,1616.1434)
+:Sending Touch (ACTION_DOWN): 0:(507.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(518.305,1095.3342)
+    //[calendar_time:2017-08-03 16:53:04.261  system_uptime:194169204]
+    // Sending event #2500
+    //[calendar_time:2017-08-03 16:53:04.762  system_uptime:194169705]
+    // Sending event #2500
+:Sending Touch (ACTION_DOWN): 0:(731.0,1510.0)
+:Sending Touch (ACTION_UP): 0:(642.4314,1513.2083)
+:Sending Touch (ACTION_DOWN): 0:(1067.0,1022.0)
+:Sending Touch (ACTION_UP): 0:(1071.8623,1025.4501)
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+:Sending Touch (ACTION_DOWN): 0:(62.0,1609.0)
+:Sending Touch (ACTION_UP): 0:(65.090324,1602.9998)
+:Sending Touch (ACTION_DOWN): 0:(685.0,36.0)
+:Sending Touch (ACTION_UP): 0:(659.7743,58.335934)
+:Sending Touch (ACTION_DOWN): 0:(622.0,525.0)
+:Sending Touch (ACTION_UP): 0:(621.9759,528.4546)
+:Sending Touch (ACTION_DOWN): 0:(110.0,1581.0)
+:Sending Touch (ACTION_UP): 0:(108.662834,1582.7911)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(805.0,72.0)
+:Sending Touch (ACTION_UP): 0:(804.3785,83.957504)
+:Sending Touch (ACTION_DOWN): 0:(1076.0,1302.0)
+:Sending Touch (ACTION_UP): 0:(926.20374,1318.3823)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1331.0)
+:Sending Touch (ACTION_UP): 0:(686.1033,1294.2667)
+:Sending Touch (ACTION_DOWN): 0:(663.0,1415.0)
+:Sending Touch (ACTION_UP): 0:(665.8069,1418.858)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Touch (ACTION_DOWN): 0:(19.0,993.0)
+:Sending Touch (ACTION_UP): 0:(21.760647,1000.3099)
+:Sending Touch (ACTION_DOWN): 0:(858.0,501.0)
+:Sending Touch (ACTION_UP): 0:(865.4912,466.51025)
+:Sending Touch (ACTION_DOWN): 0:(734.0,492.0)
+:Sending Touch (ACTION_UP): 0:(748.6188,492.07938)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    //[calendar_time:2017-08-03 16:53:19.154  system_uptime:194184096]
+    // Sending event #2600
+:Sending Touch (ACTION_DOWN): 0:(770.0,587.0)
+:Sending Touch (ACTION_UP): 0:(881.9152,510.7192)
+:Sending Touch (ACTION_DOWN): 0:(277.0,430.0)
+:Sending Touch (ACTION_UP): 0:(267.72305,427.57672)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // activityResuming(com.android.quicksearchbox)
+    // Rejecting resume of package com.android.quicksearchbox
+    // Injection Failed
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(120.0,1905.0)
+:Sending Touch (ACTION_UP): 0:(139.46405,1904.5891)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.TwelveKeyDialer } in package com.android.contacts
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(409.0,427.0)
+:Sending Touch (ACTION_UP): 0:(415.04514,431.28864)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(971.0,439.0)
+:Sending Touch (ACTION_UP): 0:(970.3008,434.6909)
+:Sending Touch (ACTION_DOWN): 0:(466.0,1883.0)
+:Sending Touch (ACTION_UP): 0:(461.28445,1885.0012)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.mms/.ui.MmsTabActivity } in package com.android.mms
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(944.0,54.0)
+:Sending Touch (ACTION_UP): 0:(916.3032,97.31933)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(620.0,1809.0)
+:Sending Touch (ACTION_UP): 0:(616.40265,1830.2043)
+    // Allowing start of Intent { cmp=com.coolqi.partner/.module.login.PhoneVerifyActivity } in package com.coolqi.partner
+    // activityResuming(com.coolqi.partner)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2017-08-03 16:53:29.672  system_uptime:194194615]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(84.0,845.0)
+:Sending Touch (ACTION_UP): 0:(113.54065,839.15955)
+:Sending Touch (ACTION_DOWN): 0:(212.0,1248.0)
+:Sending Touch (ACTION_UP): 0:(213.44693,1247.4636)
+:Sending Touch (ACTION_DOWN): 0:(607.0,1332.0)
+:Sending Touch (ACTION_UP): 0:(614.63135,1338.7883)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,1278.0)
+:Sending Touch (ACTION_UP): 0:(10.431285,1265.8253)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1012.0,1151.0)
+:Sending Touch (ACTION_UP): 0:(1008.5647,1155.6024)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1260.0)
+:Sending Touch (ACTION_UP): 0:(509.29987,1263.9136)
+:Sending Touch (ACTION_DOWN): 0:(347.0,1788.0)
+:Sending Touch (ACTION_UP): 0:(354.76917,1797.9851)
+:Sending Touch (ACTION_DOWN): 0:(154.0,1489.0)
+:Sending Touch (ACTION_UP): 0:(160.95813,1484.4437)
+:Sending Touch (ACTION_DOWN): 0:(671.0,52.0)
+:Sending Touch (ACTION_UP): 0:(662.2984,62.186783)
+:Sending Touch (ACTION_DOWN): 0:(939.0,274.0)
+    //[calendar_time:2017-08-03 16:53:39.966  system_uptime:194204908]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(939.6179,286.5489)
+:Sending Touch (ACTION_DOWN): 0:(120.0,615.0)
+:Sending Touch (ACTION_UP): 0:(106.0446,620.047)
+:Sending Touch (ACTION_DOWN): 0:(729.0,1812.0)
+:Sending Touch (ACTION_UP): 0:(724.25104,1810.5731)
+:Sending Touch (ACTION_DOWN): 0:(524.0,947.0)
+:Sending Touch (ACTION_UP): 0:(528.1653,942.0696)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(491.0,172.0)
+:Sending Touch (ACTION_UP): 0:(488.23935,176.24693)
+:Sending Touch (ACTION_DOWN): 0:(947.0,1507.0)
+:Sending Touch (ACTION_UP): 0:(947.49744,1511.4424)
+:Sending Touch (ACTION_DOWN): 0:(471.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(468.96695,1004.3958)
+:Sending Touch (ACTION_DOWN): 0:(257.0,233.0)
+:Sending Touch (ACTION_UP): 0:(261.2412,248.6274)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(570.0,578.0)
+:Sending Touch (ACTION_UP): 0:(561.1301,558.6482)
+:Sending Touch (ACTION_DOWN): 0:(791.0,1860.0)
+:Sending Touch (ACTION_UP): 0:(789.18976,1855.3854)
+:Sending Touch (ACTION_DOWN): 0:(156.0,775.0)
+:Sending Touch (ACTION_UP): 0:(155.848,754.8311)
+:Sending Touch (ACTION_DOWN): 0:(816.0,83.0)
+:Sending Touch (ACTION_UP): 0:(811.69073,84.703545)
+:Sending Touch (ACTION_DOWN): 0:(385.0,577.0)
+:Sending Touch (ACTION_UP): 0:(390.6674,608.54114)
+:Sending Touch (ACTION_DOWN): 0:(456.0,1773.0)
+:Sending Touch (ACTION_UP): 0:(457.32132,1786.7927)
+:Sending Touch (ACTION_DOWN): 0:(552.0,536.0)
+:Sending Touch (ACTION_UP): 0:(551.4846,540.4662)
+:Sending Touch (ACTION_DOWN): 0:(930.0,1726.0)
+:Sending Touch (ACTION_UP): 0:(945.68634,1736.2336)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(497.0,1395.0)
+:Sending Touch (ACTION_UP): 0:(493.45114,1388.0173)
+:Sending Touch (ACTION_DOWN): 0:(1069.0,684.0)
+:Sending Touch (ACTION_UP): 0:(1070.0144,684.15375)
+:Sending Touch (ACTION_DOWN): 0:(31.0,72.0)
+:Sending Touch (ACTION_UP): 0:(34.867664,58.047523)
+:Sending Touch (ACTION_DOWN): 0:(660.0,1122.0)
+:Sending Touch (ACTION_UP): 0:(702.1647,1099.0044)
+:Sending Touch (ACTION_DOWN): 0:(218.0,1778.0)
+:Sending Touch (ACTION_UP): 0:(197.04913,1765.9512)
+:Sending Touch (ACTION_DOWN): 0:(493.0,1027.0)
+    //[calendar_time:2017-08-03 16:53:55.391  system_uptime:194220334]
+    // Sending event #2900
+:Sending Touch (ACTION_UP): 0:(454.89426,1006.2453)
+:Sending Touch (ACTION_DOWN): 0:(145.0,911.0)
+:Sending Touch (ACTION_UP): 0:(141.82841,933.26917)
+:Sending Touch (ACTION_DOWN): 0:(392.0,147.0)
+:Sending Touch (ACTION_UP): 0:(379.95456,148.58757)
+:Sending Touch (ACTION_DOWN): 0:(440.0,818.0)
+:Sending Touch (ACTION_UP): 0:(438.93552,825.9022)
+:Sending Touch (ACTION_DOWN): 0:(141.0,665.0)
+:Sending Touch (ACTION_UP): 0:(146.17732,672.7687)
+:Sending Touch (ACTION_DOWN): 0:(726.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(716.36786,1237.0704)
+:Sending Touch (ACTION_DOWN): 0:(127.0,573.0)
+:Sending Touch (ACTION_UP): 0:(122.3841,550.31134)
+:Sending Touch (ACTION_DOWN): 0:(746.0,828.0)
+:Sending Touch (ACTION_UP): 0:(745.85187,837.2749)
+:Sending Touch (ACTION_DOWN): 0:(239.0,149.0)
+:Sending Touch (ACTION_UP): 0:(236.27917,163.67194)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(439.0,1016.0)
+:Sending Touch (ACTION_UP): 0:(444.8668,1019.2491)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(243.0,898.0)
+:Sending Touch (ACTION_UP): 0:(241.91676,888.45593)
+:Sending Touch (ACTION_DOWN): 0:(32.0,410.0)
+:Sending Touch (ACTION_UP): 0:(49.30537,402.9387)
+:Sending Touch (ACTION_DOWN): 0:(7.0,1239.0)
+:Sending Touch (ACTION_UP): 0:(10.33443,1245.7981)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(985.0,37.0)
+:Sending Touch (ACTION_UP): 0:(985.3586,40.225605)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+    //[calendar_time:2017-08-03 16:54:05.759  system_uptime:194230702]
+    // Sending event #3000
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(135.0,1463.0)
+:Sending Touch (ACTION_UP): 0:(68.62825,1352.5417)
+:Sending Touch (ACTION_DOWN): 0:(302.0,167.0)
+:Sending Touch (ACTION_UP): 0:(305.7504,161.79)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(104.0,1470.0)
+:Sending Touch (ACTION_UP): 0:(113.761826,1457.3258)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(790.0,607.0)
+:Sending Touch (ACTION_UP): 0:(794.0984,605.6899)
+:Sending Touch (ACTION_DOWN): 0:(96.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(82.37,997.70514)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(740.0,394.0)
+:Sending Touch (ACTION_UP): 0:(734.83374,389.09653)
+:Sending Touch (ACTION_DOWN): 0:(821.0,1777.0)
+:Sending Touch (ACTION_UP): 0:(822.16,1775.7853)
+    //[calendar_time:2017-08-03 16:54:14.492  system_uptime:194239435]
+    // Sending event #3100
+    //[calendar_time:2017-08-03 16:54:14.994  system_uptime:194239936]
+    // Sending event #3100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(397.0,1354.0)
+:Sending Touch (ACTION_UP): 0:(458.59354,1341.5978)
+:Sending Touch (ACTION_DOWN): 0:(898.0,1615.0)
+:Sending Touch (ACTION_UP): 0:(891.3543,1614.821)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(578.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(593.3271,998.0206)
+:Sending Touch (ACTION_DOWN): 0:(100.0,538.0)
+:Sending Touch (ACTION_UP): 0:(50.340527,443.49426)
+:Sending Touch (ACTION_DOWN): 0:(114.0,425.0)
+:Sending Touch (ACTION_UP): 0:(116.102715,421.33762)
+:Sending Touch (ACTION_DOWN): 0:(404.0,1048.0)
+:Sending Touch (ACTION_UP): 0:(399.88828,1057.7712)
+:Sending Touch (ACTION_DOWN): 0:(333.0,466.0)
+:Sending Touch (ACTION_UP): 0:(317.58633,464.54688)
+:Sending Touch (ACTION_DOWN): 0:(789.0,445.0)
+:Sending Touch (ACTION_UP): 0:(787.1959,464.76578)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(954.0,147.0)
+:Sending Touch (ACTION_UP): 0:(962.9759,139.22958)
+:Sending Touch (ACTION_DOWN): 0:(796.0,136.0)
+:Sending Touch (ACTION_UP): 0:(800.3952,138.68835)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(905.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(889.4975,1016.3359)
+:Sending Touch (ACTION_DOWN): 0:(687.0,949.0)
+:Sending Touch (ACTION_UP): 0:(691.3487,948.3551)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2017-08-03 16:54:25.036  system_uptime:194249979]
+    // Sending event #3200
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(230.0,259.0)
+:Sending Touch (ACTION_UP): 0:(230.0321,259.14374)
+:Sending Touch (ACTION_DOWN): 0:(1077.0,243.0)
+:Sending Touch (ACTION_UP): 0:(1075.5955,241.2302)
+:Sending Touch (ACTION_DOWN): 0:(436.0,298.0)
+:Sending Touch (ACTION_UP): 0:(438.8507,278.4552)
+:Sending Touch (ACTION_DOWN): 0:(550.0,11.0)
+:Sending Touch (ACTION_UP): 0:(531.0967,36.676662)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(364.0,461.0)
+:Sending Touch (ACTION_UP): 0:(348.9979,452.98737)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1224.0)
+:Sending Touch (ACTION_UP): 0:(264.0678,1231.5502)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(927.0,1189.0)
+:Sending Touch (ACTION_UP): 0:(1027.6991,1237.3883)
+:Sending Touch (ACTION_DOWN): 0:(752.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(766.90326,1085.1384)
+:Sending Touch (ACTION_DOWN): 0:(92.0,1664.0)
+:Sending Touch (ACTION_UP): 0:(92.81236,1661.7178)
+:Sending Touch (ACTION_DOWN): 0:(860.0,65.0)
+    //[calendar_time:2017-08-03 16:54:33.486  system_uptime:194258429]
+    // Sending event #3300
+:Sending Touch (ACTION_UP): 0:(768.1126,128.86057)
+:Sending Touch (ACTION_DOWN): 0:(238.0,796.0)
+:Sending Touch (ACTION_UP): 0:(186.3836,835.2808)
+:Sending Touch (ACTION_DOWN): 0:(368.0,928.0)
+:Sending Touch (ACTION_UP): 0:(402.45776,953.2015)
+:Sending Touch (ACTION_DOWN): 0:(566.0,266.0)
+:Sending Touch (ACTION_UP): 0:(574.70514,261.17313)
+:Sending Touch (ACTION_DOWN): 0:(230.0,1844.0)
+:Sending Touch (ACTION_UP): 0:(237.21214,1833.2759)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
+:Sending Touch (ACTION_DOWN): 0:(467.0,1257.0)
+:Sending Touch (ACTION_UP): 0:(466.66714,1264.184)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,1805.0)
+:Sending Touch (ACTION_UP): 0:(229.58379,1802.5967)
+:Sending Touch (ACTION_DOWN): 0:(703.0,431.0)
+:Sending Touch (ACTION_UP): 0:(703.4284,433.33728)
+:Sending Touch (ACTION_DOWN): 0:(475.0,1383.0)
+:Sending Touch (ACTION_UP): 0:(475.89984,1376.4147)
+:Sending Touch (ACTION_DOWN): 0:(684.0,1706.0)
+:Sending Touch (ACTION_UP): 0:(683.9087,1702.4518)
+:Sending Touch (ACTION_DOWN): 0:(195.0,1875.0)
+:Sending Touch (ACTION_UP): 0:(195.97243,1867.0449)
+:Sending Touch (ACTION_DOWN): 0:(470.0,98.0)
+:Sending Touch (ACTION_UP): 0:(481.28757,104.22571)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.coolqi.partner/.module.home.SplashActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.coolqi.partner/.module.home.SplashActivity } in package com.coolqi.partner
